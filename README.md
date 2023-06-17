@@ -1,10 +1,10 @@
-### Hi there 👋
+### 2019219077 정보통신학부 한윤종 👋
 
 <!--
 **han1637/han1637** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+username = [한윤종]
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
